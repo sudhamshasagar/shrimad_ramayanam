@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/shrimad_ramayanam/shrimad_ramayanam/static/css/main.15f94a7d.css",
-    "main.js": "/shrimad_ramayanam/shrimad_ramayanam/static/js/main.bd52c877.js",
-    "index.html": "/shrimad_ramayanam/shrimad_ramayanam/index.html",
-    "main.15f94a7d.css.map": "/shrimad_ramayanam/shrimad_ramayanam/static/css/main.15f94a7d.css.map",
-    "main.bd52c877.js.map": "/shrimad_ramayanam/shrimad_ramayanam/static/js/main.bd52c877.js.map"
+    "main.css": "/shrimad_ramayanam/static/css/main.15f94a7d.css",
+    "main.js": "/shrimad_ramayanam/static/js/main.bd52c877.js",
+    "index.html": "/shrimad_ramayanam/index.html",
+    "main.15f94a7d.css.map": "/shrimad_ramayanam/static/css/main.15f94a7d.css.map",
+    "main.bd52c877.js.map": "/shrimad_ramayanam/static/js/main.bd52c877.js.map"
   },
   "entrypoints": [
     "static/css/main.15f94a7d.css",
